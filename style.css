@@ -75,3 +75,18 @@
 .elementor-widget-icon{
     width : max-content;
 }
+
+.select2-container{
+    width: 100% !important; 
+    border : 1px solid #B2B2B2 !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    top: 29% !important;
+}
+
+.select2-container--default .select2-selection--single{
+    border: 0 !important;
+    padding: 0 ;
+    margin: 0;
+}
