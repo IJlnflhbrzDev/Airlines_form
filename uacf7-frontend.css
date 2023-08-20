@@ -1,0 +1,6 @@
+.wpcf7-form label {
+	background-color: red;
+	border: 100px solid black ;
+	padding: 5px 0 !important;
+	display: block;
+}
